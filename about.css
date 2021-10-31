@@ -1,0 +1,13 @@
+img {height:100px; width:100%;}
+a:link {text-decoration:none;}
+a {padding:25px; font-size:19px;color:rgb(168, 223, 237);}
+.simp {margin-left:45px;}
+.hr {color:rgb(168, 223, 237);}
+h1 {text-align:center; font-size: 40px; font-family:Serif; font-weight: strong;}
+.image {width:34%; height: 200px;location:absolute; border:solid;padding:5px;border-width:1px; border-color:grey; float:left; }
+p {font-family:Sans-Serif; text-align:left; font-size: 20px}
+ #grey {background-color:grey;}
+
+
+
+.container {background-color:grey;}
